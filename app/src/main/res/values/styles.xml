@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="colorPrimary">#2196F3</color> <!-- Blue -->
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="textColorLight">#000000</color>
+    <color name="blue">#00008B</color>
+</resources>
