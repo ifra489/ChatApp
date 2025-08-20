@@ -37,7 +37,30 @@ ChatApp/
 
 ## Screenshots
 
+<table>
+  <tr>
+    <th>Register</th>
+    <th>Login</th>
+    <th>Log_out</th>
+  </tr>
+  <tr>
+    <td><img src="register.jpeg" height="400"/></td>
+    <td><img src="login.jpeg" height="400"/></td>
+    <td><img src="logout.jpeg" height="400"/></td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <th>Online_Status</th>
+    <th>Chat</th>
+    
+  </tr>
+  <tr>
+    <td><img src="online_status.jpeg" height="400"/></td>
+    <td><img src="chat.jpeg" height="400"/></td>
+  </tr>
+</table>
 
 
 ## ⚙️ Setup Instructions
